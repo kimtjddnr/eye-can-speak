@@ -1,0 +1,13 @@
+__pycache__
+.vscode
+.ipynb_checkpoints
+
+data
+data
+media/recordings
+trained_models/deploy.prototxt.txt
+trained_models/res10_300x300_ssd_iter_140000.caffemodel
+trained_models/shape_predictor_68_face_landmarks.dat
+
+logs
+debug.log
